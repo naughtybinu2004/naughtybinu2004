@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @naughtybinu2004
-- 👀 I’m interested in ...programming
-- 🍃 member of sl terror premium and private gang
-- 🔗admin of sl technical tips
-- developer of nb whatsapp
-
-<!---
-naughtybinu2004/naughtybinu2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{'ver1':'12', 'ver2':'25', 'ver3':'\n[>> Base ] 2.22.2.73\n[>> Exclusive ] Save to Gallery" option when Media Visibility is turned off!\n[>> Added ] Option to switch translation mode between in-app or GTranslate app\n[>> Fixed ] Anti View Once turning opened randomly\n[ðŸ‘‰ Â¸Fixed ]Widget opens without App lock"\n' , 'dli':'https://www.whatsappmods.net/2018/08/update-gbwhatsapp.html'}
